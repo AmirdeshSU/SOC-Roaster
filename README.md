@@ -64,7 +64,7 @@ A modern, feature-rich web application for managing and visualizing Security Ope
 ```bash
 # Create a new repository on GitHub named 'soc-roster'
 # Clone it to your local machine
-git clone https://github.com/AmirdeshSU/soc-roster.git
+git clone https://github.com/AmirdeshSU/SOC-Roaster.git
 cd soc-roster
 ```
 
@@ -446,9 +446,9 @@ Open an issue with:
 
 ## 📊 Stats
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AmirdeshSU/soc-roster)
-![GitHub stars](https://img.shields.io/github/stars/AmirdeshSU/soc-roster?style=social)
-![GitHub forks](https://img.shields.io/github/forks/AmirdeshSU/soc-roster?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/AmirdeshSU/SOC-Roaster)
+![GitHub stars](https://img.shields.io/github/stars/AmirdeshSU/SOC-Roaster?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AmirdeshSU/SOC-Roaster?style=social)
 
 ---
 
@@ -472,7 +472,7 @@ Open an issue with:
 
 **Built with ❤️ for SOC Teams**
 
-[Live Demo](https://AmirdeshSU.github.io/soc-roster/) • [Report Bug](https://github.com/AmirdeshSU/soc-roster/issues) • [Request Feature](https://github.com/AmirdeshSU/soc-roster/issues)
+[Live Demo](https://AmirdeshSU.github.io/soc-roster/) • [Report Bug](https://github.com/AmirdeshSU/SOC-Roaster/issues) • [Request Feature](https://github.com/AmirdeshSU/SOC-Roaster/issues)
 
 ⭐ **Star this repo if it helps your team!** ⭐
 
